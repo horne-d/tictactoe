@@ -1,4 +1,4 @@
-# tictactoe
+# TicTacToe
 
 This was a project I made to help me understand React more, and what you can do with it.
 
