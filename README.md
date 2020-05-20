@@ -1,5 +1,7 @@
 # TicTacToe
 
+https://horne-d.github.io/tictactoe/
+
 This was a project I made to help me understand React more, and what you can do with it.
 
 The game is simple - get 3 in a row to win! Take it in turns until you have a winner.
